@@ -40,12 +40,8 @@
 |9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
 |10. Differential Equations|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
  |11. Optimization and fitting to data | <ul> <li> [Lecture 11 Notes][11]  </li></ul> |  <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
-
-  <ul>
-    <li>
-12. Wrapping up
-   </li>
-  </ul>
+|12. Networks in Epidemic Modelling | <ul> <li> [Lecture 12 Notes][12]  </li></ul> |  <ul><li>  [Lecture 12 Video][video:12]  </li></ul>  | <ul><li>[Networks][notebook:12]</li></ul>|  
+  
  
  
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
@@ -58,6 +54,7 @@
 [8]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/08.%20Continuous%20random%20variables.pdf
 [10]:https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing
 [11]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/11.%20Optimization%20and%20linear%20regression.pdf
+[12]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/12.%20Networks%20in%20epidemic%20modelling.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
@@ -71,6 +68,7 @@
 [video:9]:https://mit.zoom.us/rec/share/649pLprc8WNIco3f9V7kC4wKJdzjeaa80XQb__UKzBt2XiCyIvtsoULwI_jWE4Ae
 [video:10]:https://mit.zoom.us/rec/play/7518IuH6qzw3ToaVsASDVqRxW9XsLf2s0iYb-PMOzU22VXUEY1quY-ARa7NLJy4EoyF2cTZfZ0CsDdCy?continueMode=true
 [video:11]:https://mit.zoom.us/rec/play/uscrJO6s_W43GtzGuQSDVqB5W43uKq-sgHUZrqIEmk69AXhVZFOiN-FAa-JUrxTFKA3zRiz2ZyJnYDE?continueMode=true
+[video:12]:https://mit.zoom.us/rec/share/7M5REZPPyUdOUNbrzR2EaIMqRInjT6a8hilK_KcOz06Viec_gN-vfyXZdSpFR4x3
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
@@ -81,6 +79,10 @@
 [notebook:7]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/07%20-%20Markov%20chains%20and%20continuous%20random%20variables.ipynb
 [notebook:8]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/08%20-%20Continuous%20time.ipynb
 [notebook:9]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/09%20-%20Exponential%20distribution.ipynb
+[notebook:12]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/12.%20Networks.ipynb
+
+
+
 
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
